@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebCoreApi21Test1</name>
+    </assembly>
+    <members>
+        <member name="M:WebCoreApi21Test1.Controllers.ValuesController.Get(System.String)">
+            <summary>
+            GET api/values/5
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
